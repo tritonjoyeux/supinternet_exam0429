@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+.content{
+    text-align: left;
+    display: inline-block;
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+.allumettes{
+    height: 50px;
+    width: 50px;
+
+}
